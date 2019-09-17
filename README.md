@@ -35,10 +35,10 @@ Visit Demo Zone (https://portal.enablex.io/demo-zone/) to request a Guided Demo 
 #### 3.1.3 Sample App Server
 
 * You need to have an App server. Get any of the Repositiory listed below to setup your App Server:
-  * Laravel [https://github.com/EnableX/Sample-Laravel-Web-App-1to1-RTC.git]
-  * PHP     [https://github.com/EnableX/Sample-PHP-Web-App-1to1-RTC.git]
-  * Nodejs  [https://github.com/EnableX/Sample-Web-App-1to1-RTC.git]
-  * Python  [https://github.com/EnableX/Sample-Python-Web-App-1to1-RTC.git]
+  * Laravel [https://github.com/EnableX/WebRTC-Open-Source-One-To-One-Video-Chat-Application-in-Laravel]
+  * PHP     [https://github.com/EnableX/One-to-One-Video-Calling-Open-Source-PHP-Application]
+  * Nodejs  [https://github.com/EnableX/One-to-One-Video-Chat-Sample-Web-Application]
+  * Python  [https://github.com/EnableX/WebRTC-Python-Open-Source-Application-for-1-to-1-video-chat]
   
 * Clone or download Repository of your choice & follow the steps further
 * You need to use App ID and App Key to run this Service.
