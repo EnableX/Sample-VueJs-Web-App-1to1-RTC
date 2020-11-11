@@ -4,10 +4,10 @@ The Sample Web App demonstrates the use of APIs for EnableX platform to develop 
 
 RTC Applications hosted on EnableX platform run natively on supported set of web browsers without any additional plugin downloads.
 
-This basic 1to1 RTC Application is generated using HTML, CSS, Bootstrap v4.0.0-alpha.6, JavaScript, jQuery, Vue.js and EnxRtc (The EnableX Web Toolkit).
+This basic 1to1 RTC Application is generated using HTML, CSS, Bootstrap, JavaScript, jQuery, Vue.js and EnxRtc (The EnableX Web Toolkit).
 
 >The details of the supported set of web browsers can be found here:
-https://developer.enablex.io/release-notes/#cross-compatibility
+https://developer.enablex.io/video/browser-compatibility-of-enablex-video/
 
 ## 1. Important!
 
@@ -29,7 +29,7 @@ Sign up for a free trial https://portal.enablex.io/cpaas/trial-sign-up/ or try o
 
 #### 3.1.2 Sample Vuejs Client
 
-* Clone or download this Repository [https://github.com/EnableX/One-to-One-Video-Calling-VueJS-Open-Source-Application.git]
+* Clone this Repository [https://github.com/EnableX/One-to-One-Video-Calling-VueJS-Open-Source-Application.git]
 
 
 #### 3.1.3 Sample App Server
@@ -40,7 +40,7 @@ Sign up for a free trial https://portal.enablex.io/cpaas/trial-sign-up/ or try o
   * Nodejs  [https://github.com/EnableX/One-to-One-Video-Chat-Sample-Web-Application]
   * Python  [https://github.com/EnableX/WebRTC-Python-Open-Source-Application-for-1-to-1-video-chat]
   
-* Clone or download Repository of your choice & follow the steps further
+* Clone Repository of your choice & follow the steps further
 * You need to use App ID and App Key to run this Service.
 * Your Vuejs Client End Point needs to connect to this Service to create Virtual Room.
 * Follow README file of the cloned Repository to setup the Service.
@@ -65,23 +65,21 @@ As you have Certificate or created a Self-Signed Certificate, create a directory
 
 ## 4 Server API
 
-EnableX Server API is a Rest API service meant to be called from Partners' Application Server to provision video enabled 
-meeting rooms. API Access is given to each Application through the assigned App ID and App Key. So, the App ID and App Key 
+EnableX Server API is a Rest API service meant to be called from Partners' Application Server to provision video enabled
+meeting rooms. API Access is given to each Application through the assigned App ID and App Key. So, the App ID and App Key
 are to be used as Username and Password respectively to pass as HTTP Basic Authentication header to access Server API.
- 
-For this application, the following Server API calls are used: 
-* https://developer.enablex.io/latest/server-api/rooms-route/#get-rooms - To get list of Rooms
-* https://developer.enablex.io/latest/server-api/rooms-route/#get-room-info - To get information of the given Room
-* https://developer.enablex.io/latest/server-api/rooms-route/#create-token - To create Token for the given Room
+
+For this application, the following Server API calls are used:
+* https://developer.enablex.io/video-api/server-api/rooms-route/#create-room - To create room to carry out a video session
+* https://developer.enablex.io/video-api/server-api/rooms-route/#create-token - To create Token for the given Room to join a session
 
 To know more about Server API, go to:
-https://developer.enablex.io/latest/server-api/
-
+https://developer.enablex.io/video-api/server-api/
 
 
 ## 5 Client API
 
-Client End Point Application uses Web Toolkit EnxRtc.js to communicate with EnableX Servers to initiate and manage RTC Communications.  
+Client End Point Application uses Web Toolkit EnxRtc.js to communicate with EnableX Servers to initiate and manage RTC Communications.
 
 To know more about Client API, go to:
-https://developer.enablex.io/latest/client-api/
+https://developer.enablex.io/video-api/client-api/
