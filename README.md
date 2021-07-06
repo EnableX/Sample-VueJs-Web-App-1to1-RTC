@@ -19,8 +19,7 @@ This sample client application also demonstrates the following features:
 * Screen share 
 * Disconnect
 
-> The details of the supported set of web browsers can be found here:
-> https://developer.enablex.io/video/browser-compatibility-of-enablex-video/
+
 
 ## 1 Get Started
 
@@ -32,15 +31,18 @@ This sample client application also demonstrates the following features:
 * Create your Project
 * Get the App ID and App Key generated against the Project
 
+
 #### 1.1.2 Requirement
 
 * Check your browser compatibility with EnableX [https://developer.enablex.io/video/browser-compatibility-of-enablex-video/]
 * Download latest copy of Web SDK (EnxRtc.js) [https://developer.enablex.io/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3] and replace client/js/EnxRtc.js 
 * Install all project modules. Run `npm install` 
 
+
 #### 1.1.3 SSL Certificate 
 
 Use a valid SSL Certificate for your Domain and use it to configure your Web Service to make your domain accessible on HTTPS. 
+
 
 #### 1.1.4 Sample Application Server
 
@@ -74,6 +76,7 @@ Run `npm start`
 Note: This sample application creates a virtual room with limited Participants and 1 Moderator for demonstration purposes. 
 
 
+
 ## 2 Testing Environment
 
 As mentioned in section 1.1.4 above, you have an option to run your client application on **EnableX pre-configured environment** [https://try.enablex.io/] instead of setting up your own application server.  
@@ -88,6 +91,7 @@ As the EnableX test server has been configured for demonstration purpose only, i
 Refer to the **Demo App Server** [https://developer.enablex.io/video/sample-code/#demo-app-server] for more information.   
 
 Once you have successfully tested your application on the test server, you can set up your application server as explained in section 1.1.4 above. 
+
 
 
 ## 3 Learn more about Client API
@@ -119,6 +123,7 @@ And many more such exciting features.
 Read **Web Toolkit Documentation** [https://www.enablex.io/developer/video-api/client-api/web-toolkit/]  for more details.  
 
 **Download Web Toolkit** [https://www.enablex.io/developer/video/downloads/] to get the latest version of Web SDK. 
+
 
 
 ## 4 Support
