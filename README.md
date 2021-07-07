@@ -1,4 +1,4 @@
-# One to One Video Calling Application using VueJS and EnableX Toolkit for Web 
+# One to One Video Calling Application using Vue.js (JS Framework) and EnableX Toolkit for Web
 
 This is a sample one to one video calling client application in VueJS that allows developers to implement video calling capabilities in their websites. The application runs on the web browsers (referred as client end point) and utilizes EnableX Web SDK to conduct an RTC session with its peers through EnableX Video Services. 
 
