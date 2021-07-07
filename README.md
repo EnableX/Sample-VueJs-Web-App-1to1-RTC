@@ -1,6 +1,6 @@
-# One to One Video Calling Application using Angular 8 and EnableX Toolkit for Web 
+# One to One Video Calling Application using VueJS and EnableX Toolkit for Web 
 
-This is a sample one to one video calling client application in Angular 8 that allows developers to implement video calling capabilities in their websites. The application runs on the web browsers (referred as client end point) and utilizes EnableX Web SDK to conduct an RTC session with its peers through EnableX Video Services. 
+This is a sample one to one video calling client application in VueJS that allows developers to implement video calling capabilities in their websites. The application runs on the web browsers (referred as client end point) and utilizes EnableX Web SDK to conduct an RTC session with its peers through EnableX Video Services. 
 
 The client application performs the following tasks to facilitate an RTC session: 
 
