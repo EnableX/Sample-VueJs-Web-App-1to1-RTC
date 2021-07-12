@@ -61,6 +61,8 @@ To directly try the sample code without having to configure an application serve
 
 ### 1.2 Build Application  
 
+`Important -> Rename "serv" in scripts in package.json file as "start".`
+
 Run `npm start` 
 
 
