@@ -34,8 +34,8 @@ This sample client application also demonstrates the following features:
 
 #### 1.1.2 Requirement
 
-* Check your browser compatibility with EnableX [https://developer.enablex.io/video/browser-compatibility-of-enablex-video/]
-* Download latest copy of Web SDK (EnxRtc.js) [https://developer.enablex.io/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3] and replace client/js/EnxRtc.js 
+* Check your browser compatibility with EnableX [https://www.enablex.io/developer/video/browser-compatibility-of-enablex-video/]
+* Download latest copy of Web SDK (EnxRtc.js) [https://www.enablex.io/developer/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3] and replace client/js/EnxRtc.js 
 * Install all project modules. Run `npm install` 
 
 
@@ -88,7 +88,7 @@ As the EnableX test server has been configured for demonstration purpose only, i
 * Conduct a single session with a duration lesser than 10 minutes. 
 * Host a multiparty call with less than 3 participants. 
 
-Refer to the **Demo App Server** [https://developer.enablex.io/video/sample-code/#demo-app-server] for more information.   
+Refer to the **Demo App Server** [https://www.enablex.io/developer/video/sample-code/#demo-app-server] for more information.   
 
 Once you have successfully tested your application on the test server, you can set up your application server as explained in section 1.1.4 above. 
 
@@ -130,6 +130,6 @@ Read **Web Toolkit Documentation** [https://www.enablex.io/developer/video-api/c
 
 EnableX provides a library of Documentations, How-to Guides, and Sample Codes to help software developers, interested in embedding RTC in their applications. 
 
-Refer to the **Complete Developer’s Guide** [https://developer.enablex.io/] for more details. 
+Refer to the **Complete Developer’s Guide** [https://www.enablex.io/developer/] for more details. 
 
 You may also write to us for additional support at support@enablex.io. 
